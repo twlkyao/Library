@@ -62,6 +62,10 @@ A collection of some usefule libraries.
 6. [Android-PasscodeLock](https://github.com/wordpress-mobile/Android-PasscodeLock) Android Library that provides passcode lock to your app.
 7. [TextSecure](https://github.com/WhisperSystems/TextSecure) A secure text messaging application for Android.
 8. [RedPhone](https://github.com/WhisperSystems/RedPhone) A secure calling app for Android.  
+9. [android-viewpagerindicator](https://github.com/jakewharton/android-viewpagerindicator) Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow. For more details [http://viewpagerindicator.com](http://viewpagerindicator.com).
+10. [maven-android-plugin](https://github.com/jayway/maven-android-plugin) A plugin for Android application development with Apache Maven 3.1.1+ and the Android SDK.
+11. [android](https://github.com/github/android) GitHub Official Android App 
+https://play.google.com/store/apps/details?id=com.github.mobile
 
 [Top](#Top)
 
