@@ -64,8 +64,10 @@ A collection of some usefule libraries.
 8. [RedPhone](https://github.com/WhisperSystems/RedPhone) A secure calling app for Android.  
 9. [android-viewpagerindicator](https://github.com/jakewharton/android-viewpagerindicator) Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow. For more details [http://viewpagerindicator.com](http://viewpagerindicator.com).
 10. [maven-android-plugin](https://github.com/jayway/maven-android-plugin) A plugin for Android application development with Apache Maven 3.1.1+ and the Android SDK.
-11. [android](https://github.com/github/android) GitHub Official Android App 
-https://play.google.com/store/apps/details?id=com.github.mobile
+11. [android](https://github.com/github/android) GitHub Official Android App [https://play.google.com/store/apps/details?id=com.github.mobile](https://play.google.com/store/apps/details?id=com.github.mobile).
+12. [Android-Paginated-ListView-Demo](https://github.com/danielme-com/Android-Paginated-ListView-Demo) 3 strategies for paginating data in an Android ListView. Eclipse ADT project for JellyBean 4.3
+[http://danielme.com/android-paginated-listview-demo/](http://danielme.com/android-paginated-listview-demo/).  
+13. [Android-ListView---Checkboxes](https://github.com/danielme-com/Android-ListView---Checkboxes) A example of multiple checkboxes in ListView. http://danielme.com/2013/10/09/diseno-android-listview-con-checkbox/
 
 [Top](#Top)
 
