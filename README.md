@@ -48,7 +48,8 @@ A collection of some usefule libraries.
 <a name="iOS"></a>
 ### iOS
 1. [CargoBay](https://github.com/mattt/CargoBay) The Essential StoreKit Companion, smooths out those rough parts of [`StoreKit`](http://developer.apple.com/library/ios/#documentation/StoreKit/Reference/StoreKit_Collection/)
-2. [TextSecure-iOS](https://github.com/WhisperSystems/TextSecure-iOS) A secure text messaging application for iOS [https://whispersystems.org/](https://whispersystems.org/ )
+2. [TextSecure-iOS](https://github.com/WhisperSystems/TextSecure-iOS) A secure text messaging application for iOS [https://whispersystems.org/](https://whispersystems.org/)
+3. [FastImageCache](https://github.com/path/FastImageCache) iOS library for quickly displaying images while scrolling
 
 [Top](#Top)
 
@@ -68,6 +69,11 @@ A collection of some usefule libraries.
 12. [Android-Paginated-ListView-Demo](https://github.com/danielme-com/Android-Paginated-ListView-Demo) 3 strategies for paginating data in an Android ListView. Eclipse ADT project for JellyBean 4.3
 [http://danielme.com/android-paginated-listview-demo/](http://danielme.com/android-paginated-listview-demo/).  
 13. [Android-ListView---Checkboxes](https://github.com/danielme-com/Android-ListView---Checkboxes) A example of multiple checkboxes in ListView. http://danielme.com/2013/10/09/diseno-android-listview-con-checkbox/
+14. [EventBus](https://github.com/greenrobot/EventBus) Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+15. [greenDAO](https://github.com/greenrobot/greenDAO) greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
+http://greendao-orm.com/  
+16. [greenInject](https://github.com/greenrobot/greenInject) Injects views, resources, extras, etc. into Android activities and arbitrary Java objects.
+17. [android-priority-jobqueue](https://github.com/path/android-priority-jobqueue) A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
 
 [Top](#Top)
 
